@@ -149,3 +149,68 @@ ecommerce-sales-analytics/
 - Add SQL window functions
 - Build the Power BI dashboard
 - Add Python-based exploratory analysis
+
+
+## Power BI Dashboard
+
+The project includes an interactive Power BI dashboard designed to provide a clear overview of e-commerce sales performance and customer activity.
+
+### Dashboard Features
+
+- Total Revenue from completed orders
+- Completed Orders
+- Cancellation Rate
+- Average Order Value
+- Revenue Trend over time
+- Revenue by Product Category
+- Revenue by State
+- Monthly Order Trends
+- Top 5 Products by Revenue
+- Completed vs Cancelled Orders
+- Order Date filter for interactive analysis
+
+### Key Dashboard Metrics
+
+| Metric | Value |
+|---|---:|
+| Total Revenue | ₹378.20K |
+| Completed Orders | 13 |
+| Cancellation Rate | 13.33% |
+| Average Order Value | ₹29.09K |
+
+### Power BI File
+
+The Power BI dashboard is available in the repository:
+
+`ecommerce_sales_dashboard.pbix`
+<img width="1133" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/4cdf9131-7e4c-46ec-b8d0-ad88b45dd73d" />
+
+
+---
+
+## Dashboard Preview
+
+The Power BI dashboard provides an interactive view of e-commerce sales performance, including:
+
+- Total Revenue
+- Completed Orders
+- Cancellation Rate
+- Average Order Value
+- Revenue Trend
+- Revenue by Category
+- Revenue by State
+- Monthly Order Trends
+- Top 5 Products by Revenue
+- Completed vs Cancelled Orders
+- Order Date filtering
+
+The dashboard was designed to provide a clear business-focused view of sales performance and customer purchasing activity.
+
+## Key Insights
+
+- Total completed-order revenue is ₹378.20K.
+- 13 orders were completed out of 15 total orders.
+- The cancellation rate is 13.33%.
+- The average order value is ₹29.09K.
+- Electronics generated the highest revenue among product categories.
+- Laptop was the highest-revenue product in the dashboard.
